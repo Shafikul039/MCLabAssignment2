@@ -1,6 +1,6 @@
 # MCLabAssignment2
 Secondary Numbers UI — Flutter Lab Assignment<br>
-A Flutter UI component built for a Mobile Computing lab that recreates a Secondary Numbers screen using core Flutter layout widgets.<br><br>
+A Flutter UI component built for a Mobile Computing lab that creates a Secondary Numbers screen using core Flutter layout widgets.<br><br>
 
 Widgets Used-<br>
 ->Container: Card background with rounded corners, border, shadow, and circular icon background.<br>
